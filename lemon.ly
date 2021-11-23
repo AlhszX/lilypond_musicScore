@@ -35,7 +35,7 @@
 
         \repeat volta 2 {
             {e8 c16 a} ({a8) d} {b8 g16 e} ({e8) b'}
-            {a8 g16 c} {c8 g} e4 r8 {d16 e}
+            {a8 g16 c,} {c8 g'} e4 r8 {d16 e}
             f4 {c'8 b16 c} g4 {f8 e16 f}
             fis4 {c'8 b16 a} gis4 r8 {c16 d}
             {e8 c16 a} ({a8) d} {b8 g16 e} ({e8) b'}
@@ -78,7 +78,7 @@
         b4 gis a2
         a4 e'4 fis e
 
-        a,4 e' fis e
+        % a,4 e' fis e
         b4 d cis2
         a4 cis d cis
         b4 gis a r8 \tuplet 3/2{fis8 (gis16}
