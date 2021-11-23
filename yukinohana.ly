@@ -16,7 +16,7 @@
         
     }
     \relative {
-%         \tempo 4 = 87
+        \tempo 4 = 60
         \numericTimeSignature
         \time 4/4
         
